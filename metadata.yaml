@@ -1,0 +1,29 @@
+_repo: Airopaidia-b-Containing-the-narrative-of-a-balloon-excursion-from-Chester-the-eighth-of-Septe__74910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baldwin, Thomas
+    gutenberg_agent_id: '57720'
+    url: http://www.gutenberg.org/2009/agents/57720
+description: ''
+gutenberg_issued: '2024-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74910'
+language: en
+pgterms:marc904: https://archive.org/details/Airopaidia00Bald/page/n5/mode/2up
+pgterms:marc905: 20210103080855baldwin
+pgterms:marc906: '1786'
+pgterms:marc907: GB
+production_note: Tim Lindell, Robert Tonsing, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJ. Fletcher, $c1786.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Airopaidia : $b Containing the narrative of a balloon excursion from Chester,
+  the eighth of September, 1785'
+url: http://www.gutenberg.org/ebooks/74910
