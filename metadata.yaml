@@ -1,11 +1,16 @@
 _repo: Airopaidia-b-Containing-the-narrative-of-a-balloon-excursion-from-Chester-the-eighth-of-Septe__74910
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74910-h/images/cover.jpg
 creator:
   author:
     agent_name: Baldwin, Thomas
     gutenberg_agent_id: '57720'
     url: http://www.gutenberg.org/2009/agents/57720
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74910#Airopaidia-b-Containing-the-narrative-of-a-balloon-excursion-from-Chester-the-eighth-of-Septe_
 gutenberg_issued: '2024-12-15'
 gutenberg_type: Text
 identifiers:
